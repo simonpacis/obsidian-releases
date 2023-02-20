@@ -5980,5 +5980,12 @@
         "description": "This is an Omnivore plugin for Obsidian.",
         "author": "Omnivore",
         "repo": "omnivore-app/obsidian-omnivore"
+    },
+    {
+        "id": "obsidian-grammarly-plugin",
+        "name": "Grammarly Plugin",
+        "author": "Simon Pacis",
+        "description": "Adds support for Grammarly to Obsidian.md.",
+        "repo": "simonpacis/obsidian-grammarly-plugin"
     }
 ]
